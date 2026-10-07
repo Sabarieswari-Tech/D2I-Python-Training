@@ -1,6 +1,6 @@
 # D2I Python Training
 
-This repository contains my Python learning activities, coding exercises, and practical work from the 100-hour D2I Data Science & Analytics Training program.
+This repository contains my Python exercises and practical work completed as part of the **100-hour D2I Data Science & Analytics Training Program**.
 
 ## Training Details
 
@@ -11,10 +11,10 @@ This repository contains my Python learning activities, coding exercises, and pr
 
 ## Progress
 
-This repository is being updated throughout the training program with daily Python tasks, coding exercises, and practical activities.
-
-### Completed So Far
-
 * Day 1 – Python Exercises
+* Day 1 – Python Fundamental Practice
 * Day 2 – Python Exercises
+* Day 2 – Python Fundamental Practice
 * Day 3 – Python Exercises
+
+This repository will be updated regularly with new exercises and practical work throughout the training program.

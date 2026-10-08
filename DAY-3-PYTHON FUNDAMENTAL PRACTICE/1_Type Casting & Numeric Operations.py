@@ -1,0 +1,16 @@
+try:
+    a=input("Integer: ")
+    b=input("Decimal: ")
+    a=int(a)
+    b=float(b)
+    print("Integer Value:",a)
+    print("Integer Type:",type(a).__name__)
+    print("Float Value:",b)
+    print("Float Type:",type(b).__name__)
+    print("Rounded Value:",round(b))
+    print(a,"/",int(b),"=",round(a/b,4))
+    print(a,"//",int(b),"=",a//int(b))
+    print(a,"%",int(b),"=",a%int(b))
+    print(a,"** 2 =",a**2)
+except ValueError:
+    print("Invalid numeric input")

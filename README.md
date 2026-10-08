@@ -16,5 +16,8 @@ This repository contains my Python exercises and practical work completed as par
 * Day 2 – Python Exercises
 * Day 2 – Python Fundamental Practice
 * Day 3 – Python Exercises
+* Day 3 – Python Fundamental Practice
+* Day 4 – Python Exercises
+* Day 4 – Python Fundamental Practice
 
 This repository will be updated regularly with new exercises and practical work throughout the training program.
